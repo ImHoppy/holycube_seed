@@ -1,0 +1,52 @@
+	ocean
+	plains
+	desert
+	mountains                 // windswept_hills
+	forest
+	taiga
+	swamp
+	river
+	nether_wastes
+	frozen_ocean
+	frozen_river
+	snowy_tundra              // snowy_plains
+	mushroom_fields
+	beach
+	jungle
+	jungle_edge               // sparse_jungle
+	deep_ocean
+	stone_shore               // stony_shore
+	snowy_beach
+	birch_forest
+	dark_forest
+	snowy_taiga
+	giant_tree_taiga          // old_growth_pine_taiga
+	wooded_mountains          // windswept_forest
+	savanna
+	savanna_plateau
+	badlands
+	wooded_badlands_plateau   // wooded_badlands
+	warm_ocean
+	lukewarm_ocean
+	cold_ocean
+	deep_warm_ocean
+	deep_lukewarm_ocean
+	deep_cold_ocean
+	deep_frozen_ocean
+	sunflower_plains
+	gravelly_mountains        // windswept_gravelly_hills
+	flower_forest
+	ice_spikes
+	tall_birch_forest         // old_growth_birch_forest
+	giant_spruce_taiga        // old_growth_spruce_taiga
+	shattered_savanna         // windswept_savanna
+	eroded_badlands
+	bamboo_jungle
+	dripstone_caves
+	lush_caves
+	meadow
+	grove
+	snowy_slopes
+	stony_peaks
+	jagged_peaks
+	frozen_peaks
